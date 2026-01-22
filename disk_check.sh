@@ -1,3 +1,3 @@
 df -h
 free -m
-uptime
+uptime -s
